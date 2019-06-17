@@ -1,0 +1,835 @@
+[17-Oct-2018 22:40:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:41:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:43:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:45:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[17-Oct-2018 22:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:9
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/index.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 9
+[18-Oct-2018 01:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_conent() in /app/public/wp-content/themes/savingwithenergy/single.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/single.php on line 3
+[18-Oct-2018 01:06:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 284
+[18-Oct-2018 15:38:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=768 in /app/public/wp-includes/wp-db.php on line 1924
+[18-Oct-2018 15:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/front-page.php:4
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 4
+[18-Oct-2018 15:54:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_theme_file_uri() in /app/public/wp-content/themes/savingwithenergy/front-page.php:4
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 4
+[18-Oct-2018 16:00:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_category_list() in /app/public/wp-content/themes/savingwithenergy/header.php:34
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 34
+[18-Oct-2018 16:09:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_cat_name(), 0 passed in /app/public/wp-content/themes/savingwithenergy/header.php on line 39 and exactly 1 expected in /app/public/wp-includes/category.php:204
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/header.php(39): get_cat_name()
+#1 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#2 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#3 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#5 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#6 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#7 /app/public/index.php(17): require('/app/public/wp-...')
+#8 {main}
+  thrown in /app/public/wp-includes/category.php on line 204
+[18-Oct-2018 16:11:46 UTC] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in /app/public/wp-content/themes/savingwithenergy/header.php:39
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 39
+[18-Oct-2018 16:13:17 UTC] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in /app/public/wp-content/themes/savingwithenergy/header.php:39
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 39
+[18-Oct-2018 16:13:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in /app/public/wp-content/themes/savingwithenergy/header.php:39
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 39
+[18-Oct-2018 16:13:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use [] for reading in /app/public/wp-content/themes/savingwithenergy/header.php:39
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 39
+[18-Oct-2018 16:14:00 UTC] PHP Recoverable fatal error:  Object of class WP_Term could not be converted to string in /app/public/wp-includes/formatting.php on line 1045
+[18-Oct-2018 16:14:06 UTC] PHP Recoverable fatal error:  Object of class WP_Term could not be converted to string in /app/public/wp-includes/formatting.php on line 1045
+[18-Oct-2018 16:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_categories() in /app/public/wp-content/themes/savingwithenergy/header.php:36
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 36
+[18-Oct-2018 16:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_categories() in /app/public/wp-content/themes/savingwithenergy/header.php:36
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 36
+[18-Oct-2018 16:17:02 UTC] PHP Warning:  Use of undefined constant get_the_category - assumed 'get_the_category' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/savingwithenergy/header.php on line 36
+[18-Oct-2018 16:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:12
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/single.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 12
+[18-Oct-2018 16:44:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:12
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/single.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 12
+[18-Oct-2018 20:57:42 UTC] PHP Parse error:  syntax error, unexpected 'category' (T_STRING) in /app/public/wp-content/themes/savingwithenergy/header.php on line 38
+[18-Oct-2018 21:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_term() in /app/public/wp-content/themes/savingwithenergy/header.php:35
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 35
+[18-Oct-2018 21:15:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_term() in /app/public/wp-content/themes/savingwithenergy/header.php:35
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 35
+[18-Oct-2018 21:46:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar(), 0 passed in /app/public/wp-content/themes/savingwithenergy/single.php on line 6 and at least 1 expected in /app/public/wp-includes/pluggable.php:2450
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/single.php(6): get_avatar()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/pluggable.php on line 2450
+[18-Oct-2018 21:46:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar(), 0 passed in /app/public/wp-content/themes/savingwithenergy/single.php on line 6 and at least 1 expected in /app/public/wp-includes/pluggable.php:2450
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/single.php(6): get_avatar()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/pluggable.php on line 2450
+[18-Oct-2018 21:46:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar(), 0 passed in /app/public/wp-content/themes/savingwithenergy/single.php on line 6 and at least 1 expected in /app/public/wp-includes/pluggable.php:2450
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/single.php(6): get_avatar()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/pluggable.php on line 2450
+[18-Oct-2018 21:46:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar(), 0 passed in /app/public/wp-content/themes/savingwithenergy/single.php on line 6 and at least 1 expected in /app/public/wp-includes/pluggable.php:2450
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/single.php(6): get_avatar()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/pluggable.php on line 2450
+[18-Oct-2018 21:49:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar_url(), 0 passed in /app/public/wp-content/themes/savingwithenergy/single.php on line 6 and at least 1 expected in /app/public/wp-includes/link-template.php:3758
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/single.php(6): get_avatar_url()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/link-template.php on line 3758
+[18-Oct-2018 21:49:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar_url(), 0 passed in /app/public/wp-content/themes/savingwithenergy/single.php on line 6 and at least 1 expected in /app/public/wp-includes/link-template.php:3758
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/single.php(6): get_avatar_url()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/link-template.php on line 3758
+[18-Oct-2018 21:52:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar_url(), 0 passed in /app/public/wp-content/themes/savingwithenergy/single.php on line 6 and at least 1 expected in /app/public/wp-includes/link-template.php:3758
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/single.php(6): get_avatar_url()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/link-template.php on line 3758
+[18-Oct-2018 21:52:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_avatar_url(), 0 passed in /app/public/wp-content/themes/savingwithenergy/single.php on line 6 and at least 1 expected in /app/public/wp-includes/link-template.php:3758
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/single.php(6): get_avatar_url()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/link-template.php on line 3758
+[19-Oct-2018 00:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function he_post_thumbnail_url() in /app/public/wp-content/themes/savingwithenergy/front-page.php:33
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 33
+[19-Oct-2018 00:33:35 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING) in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 40
+[19-Oct-2018 16:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::post_title() in /app/public/wp-content/themes/savingwithenergy/front-page.php:22
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 22
+[19-Oct-2018 16:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::post_content() in /app/public/wp-content/themes/savingwithenergy/front-page.php:22
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 22
+[19-Oct-2018 17:23:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_description() in /app/public/wp-content/themes/savingwithenergy/front-page.php:31
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 31
+[19-Oct-2018 17:30:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 284
+[19-Oct-2018 20:11:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 33
+[19-Oct-2018 20:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/header.php:8
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 8
+[19-Oct-2018 20:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/header.php:8
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 8
+[19-Oct-2018 20:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/header.php:8
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 8
+[19-Oct-2018 20:32:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/header.php:8
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 8
+[19-Oct-2018 20:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/header.php:8
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 8
+[19-Oct-2018 20:33:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/header.php:8
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 8
+[19-Oct-2018 20:42:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cat_name() in /app/public/wp-content/themes/savingwithenergy/front-page.php:63
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 63
+[19-Oct-2018 20:43:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_cat_name(), 0 passed in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 63 and exactly 1 expected in /app/public/wp-includes/category.php:204
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/front-page.php(63): get_cat_name()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/category.php on line 204
+[19-Oct-2018 20:43:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_cat_name(), 0 passed in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 63 and exactly 1 expected in /app/public/wp-includes/category.php:204
+Stack trace:
+#0 /app/public/wp-content/themes/savingwithenergy/front-page.php(63): get_cat_name()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/category.php on line 204
+[19-Oct-2018 20:45:05 UTC] PHP Warning:  Use of undefined constant e - assumed 'e' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 63
+[19-Oct-2018 20:45:05 UTC] PHP Warning:  Use of undefined constant e - assumed 'e' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 63
+[19-Oct-2018 20:45:05 UTC] PHP Warning:  Use of undefined constant e - assumed 'e' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 63
+[19-Oct-2018 20:45:06 UTC] PHP Warning:  Use of undefined constant e - assumed 'e' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 63
+[19-Oct-2018 20:45:06 UTC] PHP Warning:  Use of undefined constant e - assumed 'e' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 63
+[19-Oct-2018 20:54:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 61
+[19-Oct-2018 20:54:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 61
+[19-Oct-2018 22:16:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function the_post() on null in /app/public/wp-content/themes/savingwithenergy/front-page.php:27
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 27
+[19-Oct-2018 22:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function the_post() on null in /app/public/wp-content/themes/savingwithenergy/front-page.php:27
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 27
+[19-Oct-2018 22:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function the_post() on null in /app/public/wp-content/themes/savingwithenergy/front-page.php:27
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 27
+[22-Oct-2018 16:23:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/front-page.php:2
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 2
+[22-Oct-2018 16:23:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/front-page.php:2
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 2
+[22-Oct-2018 16:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/savingwithenergy/front-page.php:2
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 2
+[22-Oct-2018 20:56:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 15
+[22-Oct-2018 20:56:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 15
+[22-Oct-2018 21:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Slider_Widget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('Slider_Widget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('Slider_Widget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/pu in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[22-Oct-2018 21:25:54 UTC] PHP Fatal error:  Uncaught Error: Class 'SliderWidget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('SliderWidget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('SliderWidget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/publi in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[22-Oct-2018 21:25:56 UTC] PHP Fatal error:  Uncaught Error: Class 'SliderWidget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('SliderWidget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('SliderWidget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/publi in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[22-Oct-2018 21:26:31 UTC] PHP Fatal error:  Uncaught Error: Class 'SliderWidget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('SliderWidget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('SliderWidget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/publi in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[22-Oct-2018 21:26:33 UTC] PHP Fatal error:  Uncaught Error: Class 'SliderWidget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('SliderWidget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('SliderWidget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/publi in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[22-Oct-2018 21:27:39 UTC] PHP Fatal error:  Uncaught Error: Class 'SliderWidget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('SliderWidget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('SliderWidget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/publi in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[22-Oct-2018 21:27:39 UTC] PHP Fatal error:  Uncaught Error: Class 'SliderWidget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('SliderWidget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('SliderWidget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/publi in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[22-Oct-2018 21:27:40 UTC] PHP Fatal error:  Uncaught Error: Class 'SliderWidget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('SliderWidget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('SliderWidget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/publi in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[22-Oct-2018 21:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'SliderWidget' not found in /app/public/wp-includes/class-wp-widget-factory.php:100
+Stack trace:
+#0 /app/public/wp-includes/widgets.php(115): WP_Widget_Factory->register('SliderWidget')
+#1 /app/public/wp-content/themes/savingwithenergy/functions.php(22): register_widget('SliderWidget')
+#2 /app/public/wp-includes/class-wp-hook.php(286): register_slider_widget('')
+#3 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#6 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#7 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#9 /app/public/wp-settings.php(450): do_action('init')
+#10 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#11 /app/public/wp-load.php(37): require_once('/app/publi in /app/public/wp-includes/class-wp-widget-factory.php on line 100
+[23-Oct-2018 16:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_empty() in /app/public/wp-content/themes/savingwithenergy/archive.php:8
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/archive.php on line 8
+[23-Oct-2018 18:29:53 UTC] PHP Warning:  Illegal offset type in isset or empty in /app/public/wp-includes/media.php on line 747
+[23-Oct-2018 18:30:24 UTC] PHP Warning:  Illegal offset type in isset or empty in /app/public/wp-includes/media.php on line 747
+[23-Oct-2018 18:30:27 UTC] PHP Warning:  Illegal offset type in isset or empty in /app/public/wp-includes/media.php on line 747
+[23-Oct-2018 20:19:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/savingwithenergy/single.php on line 26
+[23-Oct-2018 20:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_category_id() in /app/public/wp-content/themes/savingwithenergy/single.php:24
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/single.php on line 24
+[23-Oct-2018 20:58:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/savingwithenergy/single.php on line 28
+[23-Oct-2018 21:03:08 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /app/public/wp-includes/class-wp-query.php on line 1921
+[23-Oct-2018 21:03:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/class-wp-query.php on line 1921
+[23-Oct-2018 21:03:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ( 
+  wp_term_relationships.term_taxonomy_id IN (2)
+) AND wp_posts.post_typ' at line 1 for query SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) WHERE 1=1  AND wp_posts.ID NOT IN () AND ( 
+  wp_term_relationships.term_taxonomy_id IN (2)
+) AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'private') GROUP BY wp_posts.ID ORDER BY wp_posts.post_date DESC LIMIT 0, 4 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/savingwithenergy/single.php'), WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[23-Oct-2018 21:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_post_id() in /app/public/wp-content/themes/savingwithenergy/single.php:25
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/single.php on line 25
+[23-Oct-2018 21:06:08 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /app/public/wp-includes/class-wp-query.php on line 1921
+[23-Oct-2018 21:06:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/class-wp-query.php on line 1921
+[23-Oct-2018 21:06:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish' OR wp_po' at line 1 for query SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID FROM wp_posts  WHERE 1=1  AND wp_posts.ID NOT IN () AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'private')  ORDER BY wp_posts.post_date DESC LIMIT 0, 4 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/savingwithenergy/single.php'), WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[23-Oct-2018 21:08:46 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /app/public/wp-includes/class-wp-query.php on line 1921
+[23-Oct-2018 21:08:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/class-wp-query.php on line 1921
+[23-Oct-2018 21:08:46 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ( 
+  wp_term_relationships.term_taxonomy_id IN (2)
+) AND wp_posts.post_typ' at line 1 for query SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) WHERE 1=1  AND wp_posts.ID NOT IN () AND ( 
+  wp_term_relationships.term_taxonomy_id IN (2)
+) AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'private') GROUP BY wp_posts.ID ORDER BY wp_posts.post_date DESC LIMIT 0, 4 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/savingwithenergy/single.php'), WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[23-Oct-2018 21:10:13 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /app/public/wp-includes/class-wp-query.php on line 1921
+[23-Oct-2018 21:10:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/class-wp-query.php on line 1921
+[23-Oct-2018 21:10:13 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ( 
+  wp_term_relationships.term_taxonomy_id IN (2)
+) AND wp_posts.post_typ' at line 1 for query SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) WHERE 1=1  AND wp_posts.ID NOT IN () AND ( 
+  wp_term_relationships.term_taxonomy_id IN (2)
+) AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'private') GROUP BY wp_posts.ID ORDER BY wp_posts.post_date DESC LIMIT 0, 4 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/savingwithenergy/single.php'), WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[23-Oct-2018 21:51:12 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /app/public/wp-content/themes/savingwithenergy/parts/pagination.php on line 2
+[23-Oct-2018 22:50:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:51:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:52:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:52:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:52:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:52:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:53:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:53:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:53:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:53:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:54:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:54:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:54:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:55:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:55:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:56:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:57:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:59:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 22:59:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'contact_form1' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[23-Oct-2018 23:00:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_contact() in /app/public/wp-content/themes/savingwithenergy/functions.php:34
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): contact_widgets_init('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-settings.php(450): do_action('init')
+#8 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#9 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#10 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#11 /app/public/index.php(17): require('/app/public/wp-...')
+#12 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/functions.php on line 34
+[23-Oct-2018 23:00:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_contact() in /app/public/wp-content/themes/savingwithenergy/functions.php:34
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): contact_widgets_init('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-settings.php(450): do_action('init')
+#8 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#9 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#10 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#11 /app/public/index.php(17): require('/app/public/wp-...')
+#12 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/functions.php on line 34
+[23-Oct-2018 23:00:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_contact() in /app/public/wp-content/themes/savingwithenergy/functions.php:34
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): contact_widgets_init('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/widgets.php(1649): do_action('widgets_init')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_widgets_init('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-settings.php(450): do_action('init')
+#8 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#9 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#10 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#11 /app/public/index.php(17): require('/app/public/wp-...')
+#12 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/functions.php on line 34
+[24-Oct-2018 22:32:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 13
+[24-Oct-2018 22:32:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 13
+[24-Oct-2018 22:33:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 14
+[24-Oct-2018 22:33:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 14
+[24-Oct-2018 22:34:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 14
+[24-Oct-2018 22:34:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 14
+[24-Oct-2018 22:35:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 14
+[24-Oct-2018 22:35:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 14
+[25-Oct-2018 23:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function the_post() on null in /app/public/wp-content/themes/savingwithenergy/footer.php:14
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/front-page.php(92): get_footer()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/footer.php on line 14
+[26-Oct-2018 18:58:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 38
+[26-Oct-2018 18:58:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 38
+[26-Oct-2018 18:58:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 38
+[26-Oct-2018 19:16:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 6
+[26-Oct-2018 19:16:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 6
+[26-Oct-2018 19:16:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 6
+[26-Oct-2018 19:17:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 36
+[26-Oct-2018 19:17:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/savingwithenergy/front-page.php on line 36
+[29-Oct-2018 18:47:15 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-admin/includes/translation-install.php on line 65
+[29-Oct-2018 18:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_mail_from() in /app/public/wp-content/themes/savingwithenergy/page-contact.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/page-contact.php on line 7
+[29-Oct-2018 18:53:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_mail_from_name() in /app/public/wp-content/themes/savingwithenergy/page-contact.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/page-contact.php on line 7
+[02-Nov-2018 00:53:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /app/public/wp-content/themes/savingwithenergy/search.php:6
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/search.php on line 6
+[02-Nov-2018 00:53:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /app/public/wp-content/themes/savingwithenergy/search.php:6
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/search.php on line 6
+[02-Nov-2018 00:54:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/savingwithenergy/search.php on line 20
+[02-Nov-2018 00:54:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/savingwithenergy/search.php on line 20
+[02-Nov-2018 00:56:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/savingwithenergy/search.php on line 9
+[02-Nov-2018 18:13:57 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/savingwithenergy/templates/card-img.php on line 9
+[02-Nov-2018 18:13:57 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/savingwithenergy/templates/card-img.php on line 9
+[02-Nov-2018 18:13:57 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/savingwithenergy/templates/card-img.php on line 9
+[02-Nov-2018 18:13:57 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/savingwithenergy/templates/card-img.php on line 9
+[02-Nov-2018 18:13:57 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/savingwithenergy/templates/card-img.php on line 9
+[05-Nov-2018 18:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:35
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/single.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 35
+[05-Nov-2018 18:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in /app/public/wp-content/themes/savingwithenergy/header.php:35
+Stack trace:
+#0 /app/public/wp-includes/template.php(688): require_once()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#2 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /app/public/wp-content/themes/savingwithenergy/single.php(1): get_header()
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/savingwithenergy/header.php on line 35
