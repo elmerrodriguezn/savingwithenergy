@@ -3,24 +3,24 @@
 <div class="section-imagine" style="background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(<?php echo  get_theme_file_uri('images/2.jpg'); ?>)">
     <div class="container">
         <div class="hero-text-box">
-            <h1>Imagine Building-Green</h1>
-            <div class="no">
+            <h1 class="mb-4">Imagine Building-Green</h1>
+            <div class="no mb-2">
                 <h3><strong>No</strong>: Fossil Fuels: disconnect from Electric and Gas Utility</h3>
             </div>
-            <div class="yes">
+            <div class="yes mb-2">
                 <h3><strong>Yes</strong>: Only Renewable Energy: Power, Heat, and Air Conditioning</h3>
             </div>
             <div class="all">
                 <h3><strong>All</strong>: Built at a Competitive Cost compared with Non-Renewable Energy Buildings.</h3>
             </div>
-            <button type="button" class="btn btn-custom-primary">Get Started</button>
-            <button type="button" class="btn btn-custom-secondary">Know More</button>
+            <a href="<?php echo site_url('/contact')?>" class="btn btn-custom-primary">Get Started</a>
+            <a href="#opportunities" class="btn btn-custom-secondary">Know More</a>
         </div>
     </div>
 </div>
 
-<div class="container post-container">
-<section class="section-opportunities">
+<div class="container container-post">
+<section id="opportunities" class="section-opportunities">
     <div class="card card-post">
         <div class="card-body">
             <h4 class="title">Building-Green Opportunities</h4>
@@ -136,34 +136,34 @@
             <h4 class="title">Demonstration Concepts</h4>
                 <div class="row">
                     <div class="col-md-6">
-                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <div id="carouselIndicators" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 01.jpg'); ?>" alt="First slide">
+                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 01.jpg'); ?>" alt="Demonstration Concept">
                                     <div class="carousel-caption d-none d-md-block">
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 02.jpg'); ?>" alt="Second slide">
+                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 02.jpg'); ?>" alt="Demonstration Concept">
                                     <div class="carousel-caption d-none d-md-block">
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 03.jpg'); ?>" alt="Second slide">
+                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 03.jpg'); ?>" alt="Demonstration Concept">
                                     <div class="carousel-caption d-none d-md-block">
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 04.jpg'); ?>" alt="Second slide">
+                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 04.jpg'); ?>" alt="Demonstration Concept">
                                     <div class="carousel-caption d-none d-md-block">
                                     </div>
                                 </div>
                             </div>
-                            <a class="carousel-control-prev carousel-control-prev-custom" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                            <a class="carousel-control-prev carousel-control-prev-custom" href="#carouselIndicators" role="button" data-slide="prev">
                                 <i class="fas fa-chevron-left fa-3x"></i>
                                 <span class="sr-only">Previous</span>
                             </a>
-                            <a class="carousel-control-next carousel-control-next-custom" href="#carouselExampleIndicators" role="button" data-slide="next">
+                            <a class="carousel-control-next carousel-control-next-custom" href="#carouselIndicators" role="button" data-slide="next">
                                 <i class="fas fa-chevron-right fa-3x"></i>
                                 <span class="sr-only">Next</span>
                             </a>
@@ -304,52 +304,6 @@
         </div>
     </div>
 
-</section>
-<section class="section-experts">
-    <div class="card card-post">
-        <div class="card-body">
-            <h4 class="title">Our Experts</h4>
-            <div class="row">
-                <div class="col-md-3"><img class="mr-3" src="<?php echo  get_theme_file_uri('images/3.jpg'); ?>" alt="Thomas C. Mort"></div>
-                <div class="col-md-9">
-                    <h5 class="mt-0">Thomas C. Mort, BS, CEM </h5>
-                    <p>President Thomas Mort Consulting, LLC</p>
-                    <h5>Qualification Summary:</h5>
-                    <p>Thomas Mort is a strong, innovative, recognized leader in the field of operational excellence and continuous improvement with more than 30 years’ experience.</p>
-                    <p>He is currently President of Thomas Mort Consulting LLC based in the US and Mort International Energy Consultants based in Mexico.  He leads a team of experts matching “best available energy technologies” to cost conscious facilities.Breaking down project barriers and turning them into cost effective opportunities.</p>
-                    <p>He was previously the Global Energy Director for Archer Daniels Midland Company and at Delphi Automotive Systems.  His responsibilities included developing, leading, implementing, and administrating company-wide programs focused on improving methods for managing energy usage.</p>
-                    <p>He has extensive international experience and training in multiple plant systems, along with technical team leadership, motivational presentations, and global program implementation.</p>
-                    <p>Thomas’s unique energy management workshop programs are utilized by many consultants and corporations to drive low cost high value energy reductions across large global manufacturing companies.</p>
-                    <h5>Certifications, Licenses, and Recognitions: </h5>
-                    <ul>
-                        <li>Presenter at the World Energy Engineering Congress, 2017.</li>
-                        <li>Recognized as a “Fellow Member” of the Association of Energy Engineers 2017. </li>
-                        <li>International Energy Manager of the Year 2013, Association of Energy Engineers.</li>
-                        <li>BS In Nuclear Engineering Technology A Certified Energy Management Engineer, CEM since 1997</li>
-                        <li>Licensed Senior Reactor Operator for the Big Rock Point Nuclear Power Plant</li>
-                        <li>Inducted as a Legends in Energy by the Association of Energy Engineers in 2008</li>
-                        <li>Society of Automotive Engineers (SAE) International Environmental Excellence Awards 2001</li>
-                        <li>Society of Automotive Engineers (SAE) International Environmental Excellence Awards 2002</li>
-                        <li>Energy Manager of the Year US 1999 presented by the Energy Manager Magazine</li>
-                        <li>Elected member of the CPS Energy Citizens Advisory Committee</li>
-                        <li>Published white papers relating to metering, HVAC, compressed air, heat recovery, lighting, demand control, water conservation, and structured analysis processes.</li>
-                        <li>ISO 50001 Presentations at the World Energy Engineering Congress 2011.</li>
-                        <li>Key Speaker at multiple manufacturing and energy conferences across US and Europe.</li>
-                        <li>Key Speaker at the Academy of Science Industrial Heat Recovery Conference 2011.</li>
-                        <li>Compressed Air Best Practices Advisory Board since 2012 Active member of IECA, Industrial Energy Consumers of America.</li>
-                    </ul>
-                </div>
-
-                <div class="col-md-3"><img class="mr-3" src="<?php echo  get_theme_file_uri('images/5.png'); ?>" alt="Jason Bell"></div>
-                <div class="col-md-9">
-                    <h5 class="mt-0">Jason Bell, BS, CEM</h5>
-                    <p>Jason Bell has a strong background  in both manufacturing and energy management with over 18 years of practical experience.  He has led energy & efficiency improvement projects throughout North America with focus on reducing costs and improving sustainability.</p>
-                    <p>He has a tremendous knowledge of New York state rebate, incentive, and energy sponsored programs with a proven history of helping organizations find funding support.</p>
-                    <p>As a Lean Black Belt, Jason specializes in reducing waste from within processes and involving the entire factory in maximizing solutions.</p>
-                </div>
-            </div>
-        </div>
-    </div>
 </section>
 </div>
 

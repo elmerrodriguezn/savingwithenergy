@@ -23,7 +23,7 @@
                 <?php endforeach; wp_reset_query(); ?>
             </ul>
         </div>
-        <div class="col-6 col-md">
+        <!--<div class="col-6 col-md">
             <h5>About</h5>
             <ul class="footer-lists">
                 <li><a class="footer-link" href="#">Team</a></li>
@@ -31,7 +31,7 @@
                 <li><a class="footer-link" href="#">Privacy</a></li>
                 <li><a class="footer-link" href="#">Terms</a></li>
             </ul>
-        </div>
+        </div>-->
     </div>
 </footer>
 

@@ -11,7 +11,7 @@
         <!-- Just an image -->
         <nav class="navbar navbar-expand-lg navbar-custom" id="nav">
             <a class="navbar-brand" href="<?php echo site_url('/'); ?>">
-                <img src="<?php echo get_theme_file_uri('images/logo.jpg'); ?>" alt="">
+                <img src="<?php echo get_theme_file_uri('images/logo.jpg'); ?>" alt="Logo">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -19,9 +19,6 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto navbar-nav-custom">
-                    <li class="nav-item">
-                        <a class="nav-link" href="<?php echo site_url('/about-us')?>">About Us</a>
-                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="<?php echo site_url('/contact')?>">Contact</a>
                     </li>
@@ -42,7 +39,3 @@
 
     </ul>
 </header>
-
-    
-
-

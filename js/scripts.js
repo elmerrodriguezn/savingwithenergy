@@ -8,16 +8,15 @@ function fixedNav() {
     } else {
         header.classList.remove("sticky");
     }
-}
+  }
 
 // The following add active to fist carousel-item class
 function carouselActive() {
     var carousel_active = document.getElementById("carousel-inner-id");
-    if (typeof carousel_active  !== 'undefined' || typeof carousel_active  !== null) {
+    if (carousel_active) {
         carousel_active.firstElementChild.classList.add('active');
     }
 }
 carouselActive();
 //carousel_active = document.getElementById("carousel-inner-id");
 //carousel_active.firstElementChild.classList.add('active');
-

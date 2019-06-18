@@ -1,4 +1,4 @@
-<?php /* Template Name: Building-Green Page */ ?>
+<?php /* Template Name: How to start */ ?>
 <?php get_header();?>
 <div class="container container-posts">
     <div class="card card-post">
