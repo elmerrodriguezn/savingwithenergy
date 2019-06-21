@@ -7,7 +7,7 @@
 body {
   font-family: "Poppins", sans-serif;
   text-rendering: optimizeLegibility;
-  background-color: #f5f4f2;
+  background-color: #EEEEEE !important;
 }
 .container-posts, .container-post, .container-single-post {
   position: relative;
@@ -220,12 +220,14 @@ h3 {
   margin: 30px auto 30px auto;
 }
 .btn-custom-primary,
+.wpcf7-submit,
 .wpforms-submit {
   background-color: transparent !important;
   border: 2px solid #ea813a !important;
   color: #ea813a !important;
 }
 .btn-custom-primary:hover,
+.wpcf7-submit:hover,
 .wpforms-submit:hover {
   background-color: transparent !important;
   border: 2px solid #e65100 !important;
@@ -243,14 +245,13 @@ h3 {
 /*============================================================== */
 /*Carousel*/
 .carousel-img-container {
-  height: 70vh;
+  height: 50vh;
   width: 100%;
   background-position: center;
   background-size: cover;
 }
 .carousel-img-container .btn-custom-primary {
   position: absolute;
-  bottom: 10%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -438,3 +439,13 @@ h3 {
   font-weight: 300;
   margin: 3px;
 }
+/*============================================================== */
+/*Nav-pills*/
+.nav-pills-custom .nav-link.active {
+	border-radius: 0;
+	background-color: #00695C !important;
+}
+.nav-pills-custom .nav-link {
+	color: #000000;
+}
+/*============================================================== */

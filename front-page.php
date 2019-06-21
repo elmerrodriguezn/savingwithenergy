@@ -4,14 +4,19 @@
     <div class="carousel-inner" id="carousel-inner-id">
         <?php $pagesQuery = new WP_Query(array(
                 'post_type' => 'page',
-                'posts_per_page' => -1
+                'posts_per_page' => -1,
+	            'post__not_in' => [3, 26, 28, 40, 60],
+				'order' => 'ASC',
         ));
+
         while ($pagesQuery->have_posts()) :
             $pagesQuery->the_post(); ?>
             <div class="carousel-item">
                 <div class="carousel-img-container" style="background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(<?php the_post_thumbnail_url(); ?>)">
                     <h1 class="carousel-title"><?php the_title(); ?></h1>
-                    <a href="<?php echo the_permalink(); ?>" class="btn btn-custom-primary">Know More</a>
+					<div class="carousel-caption d-md-block mb-4">
+                    	<a href="<?php echo the_permalink(); ?>" class="btn btn-custom-primary">Know More</a>
+         			</div>
                 </div>
             </div>
         <?php endwhile; wp_reset_postdata();?>
@@ -75,13 +80,13 @@
           <li>SAE International Environmental Excellence Award 2001 and in 2002</li>
           <li>Energy Manager of the Year US 1999 by the Energy Manager Magazine</li>
           <li>Licensed Nuclear Power Plant Operator and Reactor Engineer: 1986-1997</li>
-          <li>See www.linkedin.com/in/thomascmort   for further references.</li>
+          <li>See <a href="https://www.linkedin.com/in/thomascmort" target="blank">www.linkedin.com</a> for further references.</li>
         </ul>
       </div>
     </div>
 
     <p>To learn how you can further improve your bottom line with cost effective energy solutions, contact:</p>
-    <a href="mailto:tcmort@savingwithenergy.com?Subject=Contact%20Saving%20With%20Energy">tcmort@savingwithenergy.com</a>
+    <a href="mailto:tcmort@savingwithenergy.com?Subject=Contact%20Saving%20With%20Energy">tcmort@savingwithenergy.com</a> or through our <a href="<?php echo site_url('/contact') ?>">contact page</a>
     <p>Phone: +1 (502)-550-8817</p>
     </div>
   </div>
@@ -96,6 +101,7 @@
             $homepagePosts = new WP_Query(array(
                 'posts_per_page' => 6
             ));
+
             while ($homepagePosts->have_posts()) {
                 $homepagePosts->the_post();
                 if (empty(get_the_post_thumbnail_url())) {
@@ -104,8 +110,18 @@
                     include('templates/card-img.php');
                 }
             } wp_reset_postdata(); ?>
-        </div>
 
+        </div>
+		<?php if ($homepagePosts < 1 ) { ?>
+		<div class="card card-post">
+			<div class="card-body">
+				<h3 class="title">Sorry no posts to show</h3>
+				<div class="content-404">
+					<i class="far fa-frown fa-10x"></i>
+				</div>
+			</div>
+		</div>
+		<?php } ?>
         <a href="<?php echo site_url('/blog') ?>" class="btn btn-block btn-custom-primary">All Articles</a>
     </div>
 </section>

@@ -139,22 +139,22 @@
                         <div id="carouselIndicators" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 01.jpg'); ?>" alt="Demonstration Concept">
+                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/01.jpg'); ?>" alt="Demonstration Concept">
                                     <div class="carousel-caption d-none d-md-block">
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 02.jpg'); ?>" alt="Demonstration Concept">
+                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/02.jpg'); ?>" alt="Demonstration Concept">
                                     <div class="carousel-caption d-none d-md-block">
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 03.jpg'); ?>" alt="Demonstration Concept">
+                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/03.jpg'); ?>" alt="Demonstration Concept">
                                     <div class="carousel-caption d-none d-md-block">
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/MI 04.jpg'); ?>" alt="Demonstration Concept">
+                                    <img class="d-block w-100" src="<?php echo  get_theme_file_uri('images/04.jpg'); ?>" alt="Demonstration Concept">
                                     <div class="carousel-caption d-none d-md-block">
                                     </div>
                                 </div>

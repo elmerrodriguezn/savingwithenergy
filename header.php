@@ -9,7 +9,7 @@
 <header class="main-header" id="main-header">
     <div class="container container-header">
         <!-- Just an image -->
-        <nav class="navbar navbar-expand-lg navbar-custom" id="nav">
+        <nav class="navbar navbar-expand-lg navbar-light navbar-custom" id="nav">
             <a class="navbar-brand" href="<?php echo site_url('/'); ?>">
                 <img src="<?php echo get_theme_file_uri('images/logo.jpg'); ?>" alt="Logo">
             </a>
@@ -19,7 +19,10 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto navbar-nav-custom">
-                    <li class="nav-item">
+					<li class="nav-item <?php echo get_permalink() === site_url('/') ? 'active' : '' ?>">
+                        <a class="nav-link" href="<?php echo site_url('/')?>">Home</a>
+                    </li>
+                    <li class="nav-item <?php echo get_permalink() === site_url('/contact/') ? 'active' : '' ?>">
                         <a class="nav-link" href="<?php echo site_url('/contact')?>">Contact</a>
                     </li>
                 </ul>
@@ -36,6 +39,5 @@
                 <a class="nav-link" href="<?php echo get_category_link( $category->term_id ) ?>"><?php echo $category->cat_name ?></a>
             </li>
         <?php endforeach; wp_reset_query()?>
-
     </ul>
 </header>
